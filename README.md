@@ -26,3 +26,9 @@ In project => package.json
     "test": "node tests"
   },
 ```
+
+In tests => index.js
+
+```
+
+```
