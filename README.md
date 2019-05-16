@@ -17,12 +17,7 @@ In your project run:
 npm install wemtester
 ```
 
-In wemtester => package.json
-
-```"directories": {
-  "test": "NAME OF YOUR TEST FOLDER"
-}
-```
+Test folder name = 'tests'
 
 In project => package.json
 
