@@ -9,7 +9,6 @@ VMMMPVMMP" dMMMMMP dMP dMP dMP   dMP   dMMMMMP  VMMMP"   dMP   dMMMMMP dMP dMP
 
 # WEMtester
 
-## A (partially complete) Testing Framework for those with low expectations
 
 In your project run:
 
@@ -27,8 +26,4 @@ In project => package.json
   },
 ```
 
-In tests => index.js
 
-```
-
-```
