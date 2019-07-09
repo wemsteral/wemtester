@@ -22,7 +22,7 @@ const check = (title, cb) => {
   try {
     cb();
     console.log(
-      `${indent(indentLevel + 1)}${" OK DADDY ".bgGreen.black} ${title.green}`
+      `${indent(indentLevel + 1)}${" YAY".bgGreen.black} ${title.green}`
     );
     summary.success++;
   } catch (e) {
